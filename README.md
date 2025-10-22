@@ -42,30 +42,30 @@ Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic 
 
 ### a.   KVL:
  
-![](KCL.png)
+![](KCL.jpeg)
 
 ### b.  KCL:
  
-![](KVL.png)
+![](KVL.jpeg)
 
 ## CALCULATION:
 
  
-![](cal%201.png)
+![](cal%201.jpeg)
 
-![](cal%202.png)
+![](cal%202.jpeg)
 
-![](cal%203.png)
+![](cal%203.jpeg)
 
 ## TABULATION:
 
 ### a.   KVL:
  
-![](tab%20kvl.png)
+![](tab%20kvl.jpeg)
 
 ### b.  KCL:
 
-![](tab%20kcl.png)
+![](tab%20kcl.jpeg)
 
 ## RESULT:
 
